@@ -1,0 +1,16 @@
+{
+  "name": "note-app",
+  "version": "1.0.0",
+  "description": "Welcome to the Note App! This project is a simple yet powerful web-based application designed to help you take, manage, and organize your notes. Built with HTML, CSS, and JavaScript, the Note App offers a clean and intuitive user interface with essential features for efficient note-taking.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.77.6",
+    "vite": "^5.3.1"
+  }
+}
