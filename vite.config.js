@@ -1,6 +1,7 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
+  base: "/Note-App/", // Replace 'your-repository-name' with your actual repository name
   build: {
     outDir: "dist",
   },
